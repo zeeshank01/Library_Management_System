@@ -40,6 +40,10 @@ Controller: Acts as an intermediary between the Model and the View. It receives
 user input from the View, processes it, interacts with the Model to update data,
 and then updates the View.
 For our project, By using the concept of MVC architecture, we have Created 3
-Different packages named as: a) edu.qsp.lms.model
-b) edu.qsp.lms.view
-c) edu.qsp.lms.controller
+Different packages named as:
+
+a) com.jsp.lms.model
+
+b) com.jsp.lms.view
+
+c) com.jsp.lms.controller
