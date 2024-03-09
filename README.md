@@ -1,6 +1,6 @@
                                      Welcome to the documentation for the Library Management System (LMS). 
 
-INTRODUCTION
+<h3>INTRODUCTION</h3>
 
 The main objective of this document is to illustrate the requirements of the project Library Management system. The document gives the detailed description of the both functional and non-functional requirements.
 
