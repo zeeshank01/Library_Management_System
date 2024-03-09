@@ -1,2 +1,3 @@
-# Library_Management_System
-,djfhaweiuq4furktihv qlwieaurfhshdbvgs,rbd g
+
+                                                            Welcome to the documentation for the Library Management System (LMS). 
+INTRODUCTION
