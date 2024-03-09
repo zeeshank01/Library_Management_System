@@ -7,9 +7,13 @@ A Library Management System, dedicated to maintaining library records, significa
 
 
 1)Adding new books to the library collection.
+
 2)Conducting quick and effective searches for books.
+
 3)Removing books from the library inventory as needed.
+
 4)Updating book prices to reflect changes accurately.
+
 5)Viewing a comprehensive list of all available books.
 
 <h3>FEATURE OF LIBRARY MANAGEMENT SYSTEM</h3>
