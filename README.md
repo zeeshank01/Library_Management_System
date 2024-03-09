@@ -32,13 +32,17 @@ Notable characteristics, such as simplicity, security, and an object-oriented pa
 The Model-View-Controller (MVC) architecture is a software architecture that
 separates an application into three main components: Model, View, and
 Controller. The workflow of MVC is as follows:
+
 Model: Represents the application's data and business logic. It is responsible for
 data manipulation and storage.
+
 View: Represents the user interface. It displays the data to the user and sends
 user input to the controller.
+
 Controller: Acts as an intermediary between the Model and the View. It receives
 user input from the View, processes it, interacts with the Model to update data,
 and then updates the View.
+
 For our project, By using the concept of MVC architecture, we have Created 3
 Different packages named as:
 
@@ -47,3 +51,15 @@ a) com.jsp.lms.model
 b) com.jsp.lms.view
 
 c) com.jsp.lms.controller
+
+<h2>Source Code:</h2>
+
+a)com.jsp.lms.model
+
+>>In the edu.qsp.lms.model package, two distinct classes, namely Book and Library, have been developed.
+
+>>The Book class incorporates class data members like bookname, AuthorName, price, and publication.
+
+>>The Library class includes class data members such as libraryName, libraryAddress, pinCode, and a list of books.
+
+
