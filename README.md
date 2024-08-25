@@ -1,4 +1,4 @@
-                                     Welcome to the documentation for the Library Management System (LMS). 
+                               Welcome to the documentation for the Library Management System (LMS). 
 
 <h3>INTRODUCTION</h3>
 
